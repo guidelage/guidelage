@@ -10,7 +10,7 @@
 
 ### 👨‍💻 Sobre Mim:
 
-Com mais de **10 anos de experiência sólida como Designer Gráfico e UX/UI Designer**. Apaixonado por Dados, Design e Tecnologia.
+Tenho 26 anos, possuo mais de **10 anos de experiência sólida como Designer Gráfico e UX/UI Designer**. Apaixonado por Dados, Design e Tecnologia.
 
 Gosto de transformar conceitos e protótipos do **Figma** e **Photoshop** em interfaces **pixel-perfect**, responsivas e interativas. 
 
