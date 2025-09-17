@@ -13,11 +13,17 @@ I specialize in transforming complex concepts and high-fidelity prototypes from 
 
 ### 🛠️ My Tech Stack
 
-My skills are distributed across development and design, allowing me to build comprehensive and user-centered solutions.
+My skills cover the entire process of creating digital products, from the initial user interface design to the final deployment.
 
-| Front-End Development     | UX/UI Design        | Other Tools & Technologies |
+| Front-End Development     | UX/UI Design        | Tooling & DevOps           |
 | ------------------------- | ------------------- | -------------------------- |
-| [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,vue,nextjs,tailwind,git&perline=5)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,bootstrap,py,go,netlify&perline=3)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind&perline=4)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,vite,webpack,jest,vercel,netlify&perline=3)](https://skillicons.dev) |
+
+### 🌱 Currently Exploring
+
+Technologies I'm frequently studying to expand my skill set into full-stack development.
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,py,java,go&perline=5)](https://skillicons.dev)
 
 ---
 
