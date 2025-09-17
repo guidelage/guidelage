@@ -44,21 +44,5 @@ I'm always open to discussing design, technology, or new collaboration opportuni
 
 ### 📊 My GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=guidelage&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-        alt="Estatísticas do GitHub de Guilherme Lage"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidelage&langs_count=7&theme=dracula"
-        alt="Linguagens mais usadas por Guilherme Lage"
-      />
-    </td>
-  </tr>
-</table>
+[![card](https://github-readme-stats.vercel.app/api?username=guidelage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![guidelage](https://github-readme-stats.vercel.app/api/top-langs/?username=guidelage&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
