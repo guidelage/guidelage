@@ -1,65 +1,48 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header" alt="Banner do Perfil de Guilherme Lage" color=#
-</p>
-
-<h1 align="center">Olá, eu sou o Guilherme Lage! 👋</h1>
-<h3 align="center">Desenvolvedor Front-End & UX/UI Designer com +10 anos de experiência.</h3>
+### Hello, I'm Guilherme Lage 👋
+```Front-End Developer | UX/UI Designer```
 
 ---
 
-### 👨‍💻 Sobre Mim:
+### 👨‍💻 About Me
 
-Tenho 26 anos, possuo mais de **10 anos de experiência sólida como Designer Gráfico e UX/UI Designer**. Apaixonado por Dados, Design e Tecnologia.
+I am a creative professional with a solid **10-year background in Graphic and UX/UI Design**, now channeling my passion for technology into Front-End Development.
 
-Gosto de transformar conceitos e protótipos do **Figma** e **Photoshop** em interfaces **pixel-perfect**, responsivas e interativas. 
-
-- 🔭 Estou aprimorando minhas habilidades em arquiteturas escaláveis com React e Angular.
-- 🌱 Buscando oportunidades para colaborar em projetos inovadores onde eu possa unir minhas duas paixões: design e código.
-- 🤔 Aberto a propostas de trabalho e projetos freelancer.
+I specialize in transforming complex concepts and high-fidelity prototypes from **Figma** and **Photoshop** into pixel-perfect, responsive, and interactive web interfaces.
 
 ---
 
-### 💻 Pilha de Ferramentas:
+### 🛠️ My Tech Stack
 
-<p align="center">
-  <strong>Front-End Development</strong><br/>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/> </a>
-</p>
+My skills are distributed across development and design, allowing me to build comprehensive and user-centered solutions.
 
-<p align="center">
-  <strong>Design (UX/UI)</strong><br/>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a>
-</p>
-
-<p align="center">
-  <strong>Outras Tecnologias</strong><br/>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
+| Front-End Development     | UX/UI Design        | Other Tools & Technologies |
+| ------------------------- | ------------------- | -------------------------- |
+| [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,vue,tailwind,git&perline=5)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,py,go,netlify&perline=3)](https://skillicons.dev) |
 
 ---
 
-### 📫 Contatos:
+### 📫 Get in Touch
 
-Vamos conversar sobre design, tecnologia ou oportunidades de colaboração!
+I'm always open to discussing design, technology, or new collaboration opportunities. Let's connect!
 
 <p align="left">
-<a href="https://linkedin.com/in/souguilage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/guidelage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="mailto:souguilage@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/red" alt="email" height="30" width="40" /></a>
-<a href="https://wa.me/5521976193883" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/souguilage/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Guilherme Lage's LinkedIn" />
+  </a>
+  <a href="mailto:souguilage@gmail.com" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Send an Email to Guilherme Lage" />
+  </a>
+  <a href="https://www.instagram.com/guidelage" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Guilherme Lage's Instagram" />
+  </a>
+  <a href="https://wa.me/5521976193883" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=whatsapp" alt="Chat with Guilherme Lage on WhatsApp" />
+  </a>
 </p>
 
 ---
 
-### 📊 Estatísticas
+### 📊 My GitHub Stats
 
 <table>
   <tr>
