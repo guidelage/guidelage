@@ -17,7 +17,7 @@ My skills are distributed across development and design, allowing me to build co
 
 | Front-End Development     | UX/UI Design        | Other Tools & Technologies |
 | ------------------------- | ------------------- | -------------------------- |
-| [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,vue,tailwind,git&perline=5)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,py,go,netlify&perline=3)](https://skillicons.dev) |
+| [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,vue,nextjs,tailwind,git&perline=5)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,bootstrap,py,go,netlify&perline=3)](https://skillicons.dev) |
 
 ---
 
@@ -44,5 +44,7 @@ I'm always open to discussing design, technology, or new collaboration opportuni
 
 ### 📊 My GitHub Stats
 
-[![card](https://github-readme-stats.vercel.app/api?username=guidelage&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![guidelage](https://github-readme-stats.vercel.app/api/top-langs/?username=guidelage&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-seven-wine-69.vercel.app/api?username=guidelage&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Guilherme Lage's GitHub Stats"/>
+  <img width="41%" src="https://github-readme-stats-seven-wine-69.vercel.app/api/top-langs/?username=guidelage&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Guilherme Lage's Top Languages"/>
+</div>
