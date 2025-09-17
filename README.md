@@ -27,19 +27,16 @@ I'm always open to discussing design, technology, or new collaboration opportuni
 
 <p align="left">
   <a href="https://www.linkedin.com/in/souguilage/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Guilherme Lage's LinkedIn" />
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Guilherme Lage's LinkedIn"/>
   </a>
   <a href="mailto:souguilage@gmail.com" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Send an Email to Guilherme Lage" />
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Send an Email to Guilherme Lage"/>
   </a>
   <a href="https://www.instagram.com/guidelage" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Guilherme Lage's Instagram" />
-  </a>
-  <a href="https://wa.me/5521976193883" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=whatsapp" alt="Chat with Guilherme Lage on WhatsApp" />
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Guilherme Lage's Instagram"/>
   </a>
 </p>
-
+  
 ---
 
 ### 📊 My GitHub Stats
