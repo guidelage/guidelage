@@ -23,7 +23,7 @@ My skills cover the entire process of creating digital products, from the initia
 
 Technologies I'm frequently studying to expand my skill set into full-stack development.
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,py,java,go&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,py,java&perline=5)](https://skillicons.dev)
 
 ---
 
